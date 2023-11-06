@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+
+
+  .paginationBox{
+    padding:10px;
+    margin:3px;
+  }
+
+  .pagination-wrapper{
+    float: right;
+  }
